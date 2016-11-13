@@ -12,7 +12,7 @@
     "language"
   ],
   "author": "Jack Preston <unwttng@gmail.com>",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "dependencies": {
     "lodash": "^4.16.6",
     "word-count": "^0.2.2"
