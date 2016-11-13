@@ -1,6 +1,6 @@
 {
   "name": "gendered-language-checker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Inspired by the article 'Evidence That Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality', analyses bodies of text for gender-coded language",
   "scripts": {
     "test": "jest"
